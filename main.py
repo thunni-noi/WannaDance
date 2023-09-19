@@ -1,5 +1,4 @@
 import streamlit as st
-from run_model import model_predict
 from fastai.tabular.all import *
 import pathlib
 
